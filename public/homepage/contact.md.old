@@ -1,0 +1,11 @@
+---
+title: " Sed consectetur ante"
+weight: 4
+header_menu: true
+---
+
+{{<icon class="fa fa-envelope">}}&nbsp;[info@brikez.moe](mailto:info@brikez.moe)
+
+{{<icon class="fa fa-phone">}}&nbsp;[+xxxxxxx](tel:+xxxxx)
+
+Hit me up!
