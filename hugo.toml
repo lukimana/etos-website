@@ -18,13 +18,13 @@ title = "Europe Tournament Omega Strikers"
 [params]
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/favicon.png"
+    favicon = "images/ETOS_Glove.png"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
     # NOT the actual header background image, go to _index.md instead
-    images = ["images/cover-image.jpg"]
+    images = ["images/ETOS-Banner.png"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
@@ -42,7 +42,7 @@ title = "Europe Tournament Omega Strikers"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© etos.strikr.pro"
+    copyright = "© etos.pro"
 	
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
