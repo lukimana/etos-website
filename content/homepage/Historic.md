@@ -11,17 +11,17 @@ Here you can find the winners of the last ETOS Tournament!
 
 ----
 
-##### Floppa Cup #1  / 05.04.2024
+##### Floppa Cup #2  / 28.04.2024
 
 <div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/AimiFloppa.png" width="200" ></div>
 
-**Blob Gap**
+**Gotham City**
 
-- [Atsuro](https://www.start.gg/tournament/floppa-cup/attendee/15034356)
+- [Atsuro](https://discord.com/users/405724830164451328)
 
-- [sakke](https://www.start.gg/tournament/floppa-cup/attendee/15053267)
+- [Fang](https://discord.com/users/1058960366371078244)
 
-- [Donkers](https://www.start.gg/tournament/floppa-cup/attendee/15037342)
+- [Lylaeth](https://discord.com/users/209640861468852224)
 
 ----
 

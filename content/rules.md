@@ -1,172 +1,323 @@
 ---
-title: "Floppa Cup Rules"
----
-![win](../images/AimiFloppa.png)
+title: "ETOS Tournament Rules"
 ---
 
-{{< googlePdfReader "1iN-F4y4aHgveJ5fGe9170ulbKM4I23Tu" "Title" >}}
-
-----
-## Index
-
-1. Registration	
-2. Format	
-3. Pick and Bans	
-4. Player Etiquette	
-5. Prizes for Competing	
-6. Pre-Match and Post-Match Instructions	
-7. Internet, Lag and Performance Issues	
-8. Conclusion	
-
 ----
 
-## 1. Registration
-
-* Registration deadlines need to be upheld to the times on start.gg.
-
-* Registration must be done with a player account name either sent through Discord or displayed on start.gg in order to do proper seeding.
-
-* Contact staff if something with registration is messing up on our end or if you have any questions.
-
-* No slurs can be present in registration for the team names or player names.
-
-* No manipulation of seeding through external factors such as forcing lower or higher elo teams to drop out from external pressure, registering on a smurf account, etc.
-
-* Registration for a Floppa Cup tournament means you are giving consent to your games being streamed on Twitch and used for content/videos by the ETOS team.
-
-![win](../images/win.jpg)
+{{< googlePdfReader "1-wQSvYLMSaJ9FhbsBJXxtWlOqKrOUH95dwSSI6hmq8w" "ETOS Tournament Rules" >}}
 
 ----
 
 
-## 2. Format
-
-* All starting matches are Best of 1 (BO1).
-
-* Winners Finals, Losers Finals, Grand Finals are Best of 3 (BO3).
-
-* Team A is in the lower seed tier.
-
-* Team B is in the higher seed tier.
-
-##### BO1:
-
-Team A bans 1 map.
-
-Team B bans 1 map.
-
-Team A bans 2 maps.
-
-Team B bans 2 maps.
-
-**Match plays on the last map.**
+# ETOS Rules Compendium
 
 
-##### BO3:
+Welcome to the ETOS rules compendium. These rules apply to all ETOS tournaments and leagues, unless otherwise specified.
 
-Team A bans 1 map.
+Thank you to Coscord for providing the base rulebook
 
-Team B bans 1 map.
-
-Team A bans 1 map.
-
-Team B bans 1 map.
-
-**Team A selects the 1st map.**
-
-**Team B selects the 2nd map.**
-
-**Remaining map is the 3rd and final map.**
-
+*Last updated 8 April 2024*
 
 ----
 
-## 3. Map Pool and Banned Skins
+## Glossary
 
-##### Map Pool:
-1. Atlas Lab
+**Tournament Administrator (“Admin”)**
 
-2. Night Market
+Tournament Administrators are people that help plan and run events. Any and all questions or concerns regarding ETOS and 
+tournaments in general should be directed to them.
 
-3. Ai.Mi’s App
+**Tournament Organizer (“TO”)**
 
-4. Demon Dais
+Tournament Organizers are people who are in charge of organizing and running their respective tournaments. Any and all questions or concerns regarding specific tournaments should be directed to them.
 
-5. Oni Village
+**“The ETOS Server”, “The Discord”, etc.**
 
-6. Taiko Temple
+Refers to the discord server that typically hosts & is home to ETOS tournaments and leagues.
 
-7. Gates of Obscura
+**Series vs Match vs Set vs Goal**
 
-##### Banned Skins
-1. Soundwave Atlas
+A “series” is the largest unit of competition and is the matchup between two teams.
+A “match” or a “game” is one start-to-finish game of Omega Strikers from queuing to the results screen. A match of Omega Strikers concludes when one team has won 3 sets.
+A “set” is the in-game defined instance of a team scoring three goals and entering the Awakening Draft.
+A “goal” is one successful scoring where the core crosses over a team’s goal line.
 
-2. Dream Era
+**Best of X (“BoX”)**
 
-3. Nightmare Era
-
-4. Dream Vyce
-
-5. Nightmare Vyce
-
-6. Summer Splash X
-
-7. White Tiger Dubu
+In a “Best of X” series format, teams play a Series of matches until a winner is decided. The Series winner will be the first team to reach the required amount of game wins (majority of the total amount of games). Common match lengths include Best of 1, 3, 5, or 7.
 
 ----
 
-## 4. Player Etiquette
+## 1. Registration and Eligibility
 
-* No flaming or witch hunting, if any issues occur during the tournament about player behavior contact staff immediately. 
+**1.1. Team Registration**
 
-* Politeness is a requirement, emote spam is acceptable, targeting specific players and emote spamming them is not. This will be enforced only with the wish of a targeted player in case the situation is ‘’friendly banter’’ or an inside joke.
+In order to enter a tournament or league, players will typically register with a Start.gg account and apply with a roster, as a team, to the tournament website. This will not apply to all tournaments or leagues, please check for each individual tournament.
 
-* Players of every skill level are allowed to participate, help them learn and grow if you can, do not shame them for their ranks.
+Players are expected to join the discord server (https://discord.gg/Qt3tKm7wwT), and follow the behavioral guidelines of the server as outlined.
 
-----
+It is recommended that players have notifications on for ETOS announcements & announcements of any events they are taking part in.
 
-## 5.  Prizes for Competing
+**1.2. Team Rosters**
 
-* Prize pools will depend from Floppa to Floppa, the first Floppa Cup will have a prize of 30€, that might not be the case later.
+Any active roster must contain 3 starters and up to 3 substitutes and 2 coaches.
 
-* This is a tournament for fun competition first, training ground second.
+No current Odyssey members may enter or be a part of a participating roster.
 
-* Donations to the charity pool for the tournament prizes are acceptable.
+Players/Coaches may not be a participant of more than one team at a time at any simultaneously-occurring tournament or league.
 
-* Ody Points will be provided by Odyssey Interactive. (Thank them very much)
+**1.3. Server Selection**
 
-* In-game rewards might be a possibility in the future.
+There are 3 Europe servers: Frankfurt, London, and Ireland. Matches must be played on one of the Europe servers, unless otherwise agreed by both teams. 
+Teams are encouraged to come to an agreement regarding server choice; stability and making sure the match is not disrupted is a priority. If such an agreement cannot be reached, the team that did not choose the map for the final match (i.e. the second last team to make a map ban/pick) gets server choice.
 
-----
+**1.4. Team Names**
 
-## 6.  Pre-Match and Post-Match Instructions
+Team names may only contain alphanumeric characters (Abc123), spaces ( ) and a maximum of two (2) of the permitted special characters (,’.!). Team names may be up to twenty (20) characters long.
 
-* We are not responsible for teams checking in.
+**1.5. Same Account**
 
-* If your match is to be streamed please wait for a tournament organizer (TO) to provide the lobby code.
-
-* Once again uphold integrity in pre-game chat.
-
-* Organizing lobbies can be done in Discord with screenshots for the staff.
-
-* Post game result screen (stat screen) and winning team in your report or update the start.gg page.
+Every player must compete only with the account they provide during registration. If you wish to use a different account than the one you registered with, please notify the Admins or TOs prior to the start of the competition.
+Failure to comply with this rule may result in disqualification.
 
 ----
 
-## 7. Internet, Lag and Performance Issues
+# 2. Matches
 
-* [*Juno White Flag*](../images/juno_flag.png) and [*Asher Whistle*](../images/juno_flag.png) are both emotes to stop the game in case of external issues that do not allow a player to continue participating or very bad server lag that requires a match to be paused.
+**2.1. Competitive Patch**
 
-* If something happens for a match to be paused please call staff immediately.
+All Games will be played on the current patch available on the Live Service.
+
+**2.2. Scheduling**
+
+Officials may, at their sole discretion, re-order the schedule of Series within a given day and/or change the date of a Series to a different date or otherwise modify the schedule of Series. In the event that the changes modify a Series schedule, the staff will notify all Teams as soon as possible.
+
+**2.3. Check-ins**
+
+Players should check in at the specified time.
+
+***2.3.1. No-shows***
+
+If a player fails to show up, the team may have up to 10 minutes after the start of the match to find an eligible substitute. They must already be on the roster at the time registration closes or rosters lock.
+
+***2.3.2. Penalties***
+
+Teams may be disqualified or receive penalties for being late or being unable to produce an eligible substitute.
+2.3.2. Roster Declarations
+Starting (Match) Rosters must be declared to the opposing team (and if asked by TOs, to the designated tournament officials).
+
+**2.4. Ghost Names**
+
+Any player found to be name-hiding (i.e. not having their Omega Strikers username displayed during the game) will be given a punishment at the discretion of the present referees.
+
+**2.5. Mid-Series Substitutions**
+
+Between Matches in a BoX Series, teams may substitute in any number of players.
+These substitutions must be declared to a tournament official and to the opposing team.
+
+**2.6. Player compliance**
+
+The onus is on the player to choose their role and settings before a match starts. If a player does not choose the correct role or settings, the match will be played out as is.
+
+**2.7. Forfeiting**
+
+Forfeiting using in-game the forfeit feature will result in punishment as seen fit by competition organizers.
+Players are expected to actively participate for the full duration of a game's length.
+
+**2.8. Unique Picks**
+
+Players may not select the same striker as any of their teammates.
+
+**2.9. Skin Restrictions**
+
+The following skins are disabled in all ETOS tournaments and leagues:
+
+- Dream Era, due to visual clarity issues
+- Dream Vyce, due to visual clarity issues
+- Nightmare Era, due to visual clarity issues
+- Nightmare Vyce, due to visual clarity issues
+- Soundwave Atlas, due to visual clarity issues and health concerns
+- Summer Splash X, due to a visual bug
+- White Tiger Dubu, due to visual clarity issues on Night Market
+
+**2.10. Striker Restrictions**
+
+No Strikers are currently disabled across ETOS tournaments and leagues.
+
+**2.11. Technical / Equipment failures**
+
+When equipment fails, teams must let staff know as soon as possible.
+In the case of equipment or network failure:
+
+1. One player on the affected team must call for a timeout by 
+
+a. Pinging a TO or a Referee in Discord, or
+
+b. Using one of the following emotes 3 times in rapid succession
+
+- Default Thumbs Up
+- Asher Whistle
+- Juno White Flag
+
+2. If this occurs before the Point of No Return (the match’s first goal), a remake may be offered.
+3. If the match is past the Point of No Return and the player has not experienced technical / equipment failures during this series:
+a. Both teams may either play the point out or start the 2-minute timer immediately;
+
+b. The disconnected/impacted player will have 2 minutes to reconnect to the match and ready up;
+
+c. The match must proceed as intended after the timer has elapsed.
+
+4. If the match is past the Point of No Return and the player has experienced technical / equipment failures during this series:
+- the match must proceed as intended.
+5. If the match has already been remade twice and is part of a matchmaking ladder phase, a match may only be remade a maximum of 2 times. Initiating a third remake will award the opposing team the match victory.
 
 ----
 
-## 8. Conclusion
+3. Map Selection
+	The default map pool is:
+Night Market
+Oni Village
+Atlas's Lab
+Clarion Test Chamber
+Gates of Obscura
+Inky’s Splash Zone
+Taiko Temple
 
-Thank you for your time, if anything needs to be addressed please contact us on our [Discord](https://discord.gg/Q6XcjvynXF). 
+Note that some tournaments may have their own map pools.
 
-We hope you have a wonderful time competing and with a kind heart we wish you well.
+In most cases, a coinflip will be used to determine which of the two teams is Team A. The winner of the coinflip determines whether they are Team A or Team B.
+3.1. Examples of Map Ban Formats
+3.1.1. Bo1 with 5 maps
+Team A bans 1 map
+Team B bans 2 maps
+Team A bans 1 map
+The match will be played on the remaining map
+3.1.2. Bo3 with 5 maps
+Team A bans 1 map
+Team B bans 1 map
+Team A chooses 1st map
+Team B chooses 2nd map
+The decider will be played on the remaining map
+3.1.3. Bo1 with 7 maps
+Team A bans 1 map
+Team B bans 2 maps
+Team A bans 2 maps
+Team B bans 1 map
+The match will be played on the remaining map
+3.1.4. Bo3 with 7 maps
+Team A bans 1 map
+Team B bans 1 map
+Team B chooses 1st map
+Team A chooses 2nd map
+Team A bans 1 map
+Team B bans 1 map
+The decider will be played on the remaining map
+3.1.5. Bo3 with 9 maps
+Team A bans 1 map
+Team B bans 1 map
+Team A selects the map for Game 1
+Team B selects the map for Game 2
+Team A bans 1 map
+Team B bans 2 maps
+Team A bans 1 map
+The decider will be played on the remaining map
 
--ETOS Staff
+4. Bugs
+4.1. Prompt Reporting
+Once a Player is aware of a Bug (which, as defined, includes presumed hardware failures), the Player is required to alert Officials as to the Bug.
+The match must continue playing out while officials determine whether or not a rematch should take place.
+4.2. Terminal Situation
+In the case of a Terminal Situation, Officials shall follow the remake and restart procedures set forth in Section 4.3.
+4.3. Remake Procedure
+4.3.1. Offering a Remake
+Officials will determine whether either or both Teams were significantly disadvantaged by a Bug, and any significantly disadvantaged Team will be offered the opportunity to remake the Game. If any significantly disadvantaged Team accepts a remake, the Game will be immediately remade as per this section. Significant disadvantage is a prerequisite to a remake offer.
+4.3.2. Striker and Skin Disables
+If the remake occurred due to a striker Bug, then settings no longer will be retained (including picks and bans) regardless of Game of Record status and the striker may be ineligible for at least the remainder of the day’s Series unless the Bug can be conclusively tied to a specific Game element that can be fully removed (i.e. a skin that can be disabled).
+4.3.3. Discretion
+Officials may restart any Game if Officials, in their sole and absolute discretion, believe that such an action is necessary to preserve the best interests of the Tournament or parties involved. This power is not constrained in any way by the lack of any specific language in these Rules.
 
-----
+5. Code of Conduct
+5.1. Competitive Integrity
+Teams are expected to play at their best at all times within any tournament or league match and to avoid any behavior that potentially threatens the actual or perceived integrity of competition or that is otherwise inconsistent with the principles of good sportsmanship, honesty, or fair play. Violating this rule will be subject to penalties at the discretion of the TOs and Admins. All decisions regarding violations are at the sole discretion of the Officials.
+5.2. External Programs and Assists
+The use of the following external programs and assists is considered cheating:
+Multihacks
+Modified Models
+Sound Changes
+Macros (not including simple keybinds)
+This list is not exhaustive; other programs may be deemed as cheating if they are found to be giving a player or team an unfair advantage. Players who are found to be cheating will be immediately disqualified and barred from future competitions at the discretion of the Admins.
+5.3. Bugs/Glitches/Exploits
+The exploitation of any bugs/glitches that give a player or team an unfair advantage or are disallowed by the game’s developer are prohibited from use. The use of any bug/glitch/exploit that is deemed illegal by the Admins (even if not previously seen/ruled upon) will result in a punishment.
+Punishments can include, but are not limited to:
+Forfeit of a particular set in a game
+Forfeit of a single match in a series
+Forfeit of the entire series
+Disqualification
+Currently known and prohibited bugs are as follows:
+CONTROLLER - Stopping the core by striking in a specific way
+5.4. Acts of Disruption
+Players acting on and/or conspiring to cause any disruption to a match will also be treated as cheating. Acts of disruption include, but are not limited to:
+Disconnecting with the intent of resetting or delaying a game
+Locking one’s emote so that it is permanently displayed
+5.5. Unsportsmanlike Conduct
+5.5.1. Toxic and Hateful Speech
+Toxic and hateful speech will not be tolerated and will result in disqualification and/or ban from future competitions. Examples include, but are not limited to:
+Obscene and offensive insults
+Excessive or hateful trash talk
+Slurs and bigotry relating to race, ethnicity, culture, gender identity, sexuality, religion, physical disability, or mental disability 
+Offensive behavior
+Sharing/revealing the personal information of others (doxxing)
+Targeted abuse/harassment 
+Friendly banter is allowed, but banter that crosses into intentionally hurtful or hateful speech is no longer banter.
+5.5.2. Harassment
+Harassment of players, teams, or Admins is prohibited, both in-game and outside of it.
+5.5.3. Deception
+Any attempt to mislead or deceive other players or the Admins will be punished harshly.
+5.5.4. Coercion
+Any attempt to manipulate a match or outcome through threats or intimidation of other players or Admins will result in immediate disqualification and forfeiture of event prizing.
+5.5.5. Bad Faith Clause
+Any attempt to circumvent the spirit of the rules to gain a competitive advantage in tournament or league play will be punished harshly.
+5.5.6. Knowledge of Rule Breaking
+Action will be taken against players who have knowledge of teammates or other players violating the official tournament rules and do not report the violations to the Admins.
+This applies to any rule in this rulebook, but most notably:
+Hacking
+Abusing bugs/glitches/exploits
+Using prohibited scripts/macros
+Deception/coercion of another team or player
+Match-fixing or Betting
+If you have knowledge of a teammate or other player violating the rules please message an Admin immediately. 
+5.6. Rules and Conduct Violations
+5.6.1. Investigation Compliance
+Players agree to fully cooperate with ETOS and/or TOs (as applicable) in investigating possible violations of these Rules. Any Player found to have withheld, destroyed, or tampered with any related information, or otherwise found to have misled ETOS and/or TOs during an investigation will be subject to disciplinary action.
+Players understand and agree that ETOS/Odyssey has the right, in its sole discretion, to remove a Player from or restrict such Player’s participation in any Tournament event as part of any investigation conducted by ETOS/Odyssey and TOs (as applicable).
+No Team Member may refuse or fail to apply the reasonable instructions or decisions of ETOS/Odyssey officials.
+Documentation or other reasonable items may be required at various times throughout the ETOS/Odyssey competition as requested by ETOS/Odyssey officials. If the documentation is not completed to the standards set by ETOS/Odyssey, then a team may be subject to penalties. Penalties may be imposed if the items requested are not received and completed at the required time.
+5.6.2. Disciplinary Action
+If ETOS/Odyssey decides that a Player has violated any of the Rules, ETOS/Odyssey may take the following disciplinary actions (as applicable): 
+Verbal or Written Warning(s)
+Loss of in-game privileges if applicable (e.g., Loss of Character Bans, Map Bans, etc.)
+Match Restart
+Loss of in-game sets
+Game and/or Match forfeiture 
+Issuance of Public Warning to the Player
+Loss of all or any part of the prizes previously awarded to the Player
+Disqualification of the Player from participating in one or more Series of the Tournament; or
+Stoppage of the Player from participating in one or more future competitions hosted by ETOS/Odyssey
+Any penalty taken will be at the sole discretion of ETOS/Odyssey. 
+The enforcement of any applicable punishment by ETOS/Odyssey shall not provide such Player with grounds for claims against ETOS/Odyssey under any theory of law or otherwise be considered a liability on the part of ETOS/Odyssey to such Player. ETOS/Odyssey reserves the right to seek damages and/or remedies from such Players to the fullest extent permitted by applicable law. 
+ETOS/Odyssey reserves the right to honor penalties incurred in other affiliate competitions (e.g Odyssey sanctioned bans).
+ETOS/Odyssey has final, binding authority to decide all disputes concerning any portion of these Rules, including the breach, enforcement, and interpretation thereof.
+5.7. Right to Publish
+Officials shall have the right to publish a declaration stating that a Team Member has been penalized. Any Team Members and/or Teams which may be referenced in such declaration hereby waive any right of legal action against ETOS, Odyssey Interactive, and/or any of their parents, subsidiaries, affiliates, employees, agents, or contractors.
+5.8. Appeal Process
+If a Player is suspended/banned by ETOS/Odyssey, they will be notified via email or Discord. An appeal can be sent after 7 days of the initial penalty. Please send an appeal to an ETOS/Odyssey Official (as applicable).
+
+6. Spirit of the Rules
+6.1. Finality of Decisions
+All decisions regarding the interpretation of these rules, player eligibility, scheduling, and staging of the Omega Strikers Tournaments, and penalties for misconduct, lie solely with Officials, the decisions of which are final. Official decisions concerning these Rules cannot be appealed and shall not give rise to any claim for monetary damages or any other legal or equitable remedy.
+6.2. Amendments
+ETOS may update, revise, change or modify these Rules at any time to ensure fair play and the integrity of Omega Strikers. Each Player’s participation in Omega Strikers after any update, revision, change or modification to these Rules will be deemed as acceptance by such Player of these Rules as updated, revised, altered, or modified. 
+6.3. Disqualification
+ETOS/Odyssey has the right to ban and disqualify any Team or players that violate these Rules.
+6.4. Best Interests of Administrators
+Officials at all times may act with the necessary authority to preserve the best interests of tournament or league administrators. This power is not constrained by the lack of any specific language in this document. Officials may use any form of punitive actions at their disposal against any entity whose conduct is not within the confines of the best interests of tournament or league administrators.

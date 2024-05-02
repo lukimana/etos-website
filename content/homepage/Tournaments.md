@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-There will be regular bi-weekly tournaments. Those are meant to be a regular staple, that are meant to be a fun, yet still a competetive way to experience Omega Strikers at it's full potenial. All streamed live on [Twitch!](https://www.twitch.tv/et_os)
+There will be regular bi-weekly tournaments. Those are meant to be a regular staple that are meant to be a fun, yet still a competetive way to experience Omega Strikers at it's full potenial. All streamed live on [Twitch!](https://www.twitch.tv/et_os)
 
 Of course there are plans for serious and competetive tournaments, with a set prizepool! We might also do the occasional one-off with a special ruleset like [The Starcade](https://www.start.gg/tournament/the-starcade/details)
 
