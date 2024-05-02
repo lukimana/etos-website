@@ -6,7 +6,7 @@ title: "Complete Historic Overview"
 
 ##### [Floppa Cup #2](https://www.start.gg/tournament/floppa-cup/event/floppa-cup-2/)  / 28.04.2024
 
-<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/AimiFloppa.png" width="200" ></div>
+<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/AimiFloppa.png" width="170" ></div>
 
 [**Gotham City**](https://www.start.gg/tournament/floppa-cup/event/floppa-cup-2/entrant/16444652)
 
@@ -20,7 +20,7 @@ title: "Complete Historic Overview"
 
 ##### [Bulk Up Battleground #1](https://www.start.gg/tournament/bulk-up-battleground/details)  / 21.04.2024
 
-<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/th.png" width="200" ></div>
+<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/th.png" width="170" ></div>
 
 [**xddme**](https://www.start.gg/tournament/bulk-up-battleground-1/event/bub-1/entrant/16360716)
 
@@ -35,7 +35,7 @@ title: "Complete Historic Overview"
 
 ##### [Floppa Cup #1](https://www.start.gg/tournament/floppa-cup/event/floppa-cup-1/overview)  / 05.04.2024
 
-<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/AimiFloppa.png" width="200" ></div>
+<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/AimiFloppa.png" width="170" ></div>
 
 [**Blob Gap**](https://www.start.gg/tournament/floppa-cup/event/floppa-cup-1/entrant/16182512)
 
@@ -49,7 +49,7 @@ title: "Complete Historic Overview"
 
 ##### EU Knowledge Gap #1 (KG) / 17.03.2024
 
-<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/EU_Knowledge_Gap_Logo.png" width="200" ></div>
+<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/EU_Knowledge_Gap_Logo.png" width="170" ></div>
 
 **Nab, we'd win**
 

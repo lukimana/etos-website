@@ -13,7 +13,7 @@ Here you can find the winners of the last ETOS Tournament!
 
 ##### Floppa Cup #2  / 28.04.2024
 
-<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/AimiFloppa.png" width="200" ></div>
+<div class="clearfix"> <div style="padding:10px;"> <img style="float: right;"  src="/images/AimiFloppa.png" width="170" ></div>
 
 **Gotham City**
 
